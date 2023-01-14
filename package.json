@@ -9,5 +9,16 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heismyke/LoginJavascript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/heismyke/LoginJavascript/issues"
+  },
+  "homepage": "https://github.com/heismyke/LoginJavascript#readme",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  }
 }
